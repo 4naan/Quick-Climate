@@ -6,3 +6,4 @@ http://www.bom.gov.au/climate/data/index.shtml?bookmark=136&zoom=3&lat=-41.692&l
 -----------------------
 
 This small program is my first python project and has been put together in a 2 day period as a short proof of concept.
+The program uses the attached excel spreadsheets as the database and executes analysis from that data.
