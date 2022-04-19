@@ -10,7 +10,7 @@ sheet_historic = workbook_historic.active;
 #enter the date to compare
 year = 2022
 month = 4 #int(input('Enter a month'))
-day = int(input('Enter a day (dataset cover 1st to 19th): '))
+day = int(input('Enter a day (dataset cover 1st to 18th): '))
 date_comparison = datetime.datetime(year, month, day)
 date_short=datetime.date(year, month, day)
 #this finds the dates
